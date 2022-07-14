@@ -3,21 +3,22 @@
   "version": "0.0.1",
   "description": "",
   "main": "./src/index.js",
-  "author": "ArslonbekXX",
+  "author": "Inomjonbek",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arslonbekXX/render-box.git"
+    "url": "git+https://github.com/Inomjon7777/render-box-2.git"
   },
   "keywords": [
     "img",
     "loading",
     "pdp-b-18",
     "npm",
-    "render"
+    "render",
+    "render-box-2"
   ],
   "bugs": {
-    "url": "https://github.com/arslonbekXX/render-box/issues"
+    "url": "https://github.com/Inomjon7777/render-box-2/issues"
   },
-  "homepage": "https://github.com/arslonbekXX/render-box#readme"
+  "homepage": "https://github.com/Inomjon7777/render-box-2#readme"
 }
